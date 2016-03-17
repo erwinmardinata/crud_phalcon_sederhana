@@ -1,0 +1,191 @@
+
+	body {
+		
+		background-color	: #fff;
+		background-image	: url('../images/bg-body.jpg');
+		font-family			: "Droid_sans", Helvetica, Arial, sans-serif;
+		
+	}
+	
+	.main-wrapper {
+		
+		padding-top	: 17px;
+		margin		: auto;
+		width		: 75%;
+		background	: #fff;
+		-webkit-box-shadow: 0px 0px 4px 0px rgba(105,105,105,0.7);
+		-moz-box-shadow: 0px 0px 4px 0px rgba(105,105,105,0.7);
+		box-shadow: 0px 0px 4px 0px rgba(105,105,105,0.7);
+		
+	}
+	
+	.menu {
+		
+		font-weight			: bold;
+				
+	}
+	
+/* 	.main-menu {
+		
+		width				: 75%;
+		margin				: auto;
+		padding-top			: 17px;
+		background-color	: #fff;
+		font-weight			: bold;
+		margin-bottom		: -20px;
+		-webkit-box-shadow: 0px 0px 4px 0px rgba(105,105,105,0.7);
+		-moz-box-shadow: 0px 0px 4px 0px rgba(105,105,105,0.7);
+		box-shadow: 0px 0px 4px 0px rgba(105,105,105,0.7);
+
+		
+	}
+ */	
+	.main-content {
+		
+		padding-top		: 20px;
+		width			: 75%;
+		margin			: auto;
+		background		: #fff;
+		-webkit-box-shadow: 0px 0px 4px 0px rgba(105,105,105,0.7);
+		-moz-box-shadow: 0px 0px 4px 0px rgba(105,105,105,0.7);
+		box-shadow: 0px 0px 4px 0px rgba(105,105,105,0.7);
+
+		
+	}
+	
+	.main-panel {
+		
+		margin-top		: 23px;
+		margin-bottom	: 23px;
+		
+	}
+	
+	.main-panel > 
+	.title-panel {
+		
+		font-size		: 17px;
+		font-weight		: bold;
+		border-bottom	: 2px solid green;
+		padding-bottom	: 5px;
+		
+	}
+		
+	.content-panel ul > li {
+		
+		list-style			: none;
+		border-bottom		: 1px solid #999;
+		padding-top			: 10px;
+		padding-bottom		: 10px;
+		margin-left			: -40px;
+		
+	}
+	
+	.content-panel ul > li a {
+	
+		text-decoration	: none;
+		color			: #000;
+	
+	}
+	
+	.content-panel ul > li a:hover {
+	
+		color		: green;
+	
+	}
+	
+	.waktu-post {
+		
+		color			: #999;
+		font-size		: 10px;
+		
+	}
+	.navbar-default 
+	.navbar-nav > li > a {
+		
+		color			: #000;
+		padding-left	: 25px;
+		padding-right	: 25px;
+		
+	}
+
+	.navbar-default 
+	.navbar-nav > li > a:hover {
+		
+		color		: green;
+		
+	}
+	
+	.navbar-default 
+	.navbar-nav > 
+	.active > a , 
+	.navbar-default 
+	.navbar-nav > 
+	.active > a:hover  {
+		
+		color				: #fff;
+		background-color	: green;
+		
+	}
+	
+	ul.menu li:hover ul {
+		
+		display	: block;
+		
+	}
+	
+	.dropdown-menu {
+		
+		background-color	: #f8f8f8;
+		box-shadow			: none;
+		
+	}
+	
+	.dropdown-menu li a {
+		
+		padding			: 10px 20px;
+		font-weight		: bold;
+	
+	}
+	
+	.dropdown-menu li a:hover {
+		
+		background-color	: #f8f8f8;
+		color				: green;
+		
+	}
+	
+	.input-search,
+	.btn-search {
+		
+		border-radius: 0;
+		border: 1px solid;
+		
+	}
+	
+	.btn-search:hover {
+		
+		background-color	: #fff;
+		border 				: 1px solid;
+		
+	}
+	
+	.footer {
+		
+		margin-top		: 30px;
+		padding			: 20px;
+		border-top		: 1px solid #000;
+		
+	}
+	
+	.footer a {
+		
+		font-weight	: bold;
+		color : #000;
+		
+	}
+	
+	.footer a:hover {
+		
+		color	: green;
+		
+	}
